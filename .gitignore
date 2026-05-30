@@ -216,3 +216,37 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Next.js/React
+node_modules/
+.next/
+out/
+dist/
+build/
+
+# Video/Media Files
+uploads/
+videos/
+audio/
+clips/
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.mp3
+*.wav
+*.webm
+
+# Env/Secrets
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.crt
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
